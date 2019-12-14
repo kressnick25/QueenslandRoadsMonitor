@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: #F5F0F6;
+}
+body{
+  background-color: #F5F0F6;
+  padding-left: 10em;
+}
+
+.App-header {
+  background-color: #F5F0F6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #121113;
+  padding-top: 10%;
+}
+
+.App-navbar{
+  background-color: #2B4162;
+  text-align: center;
+}
+
+.App-navbar-brand{
+  color: whitesmoke;
+}
+
+.App-navbar-unixtime{
+  color: white;
+  padding-left: 10%;
+}
+
